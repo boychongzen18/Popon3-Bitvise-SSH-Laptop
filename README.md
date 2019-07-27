@@ -13,9 +13,9 @@
 
 Bitvise SSH Client : https://www.bitvise.com/download-area
 
-Psiphon3           :https://www.psiphon3.com/id/download.html
+Psiphon3           : https://www.psiphon3.com/id/download.html
 
-proxifier          :https://www.proxifier.com/download/
+proxifier          : https://www.proxifier.com/download/
 
 =============================================================================
 
